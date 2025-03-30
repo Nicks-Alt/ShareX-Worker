@@ -40,7 +40,7 @@
 	"vars": {
 		// URL to your CloudFlare R2 bucket.
 		//https://github.com/aStonePenguin/ShareX-Worker/blob/master/README.md#r2_url---required
-		"R2_URL": "https://downloadthesuplauncher.xyz", /* CHANGE THIS */
+		"R2_URL": "https://r2.downloadthesuplauncher.xyz", /* CHANGE THIS */
 
 		// How to structure uploaded files in your R2 bucket
 		"R2_FOLDER_FORMAT": "YYYY/MM/DD",
