@@ -11,7 +11,7 @@
 
 			// The domain you'd like to use.
 			// https://github.com/aStonePenguin/ShareX-Worker/blob/master/README.md#custom-domain---required
-			"pattern": "fi1.io", /* CHANGE THIS */
+			"pattern": "downloadthesuplauncher.xyz", /* CHANGE THIS */
 			"custom_domain": true
 		}
 	],
@@ -23,7 +23,7 @@
 
 			// The CloudFlare R2 bucket name you'd like to use.
 			// https://github.com/aStonePenguin/ShareX-Worker/blob/master/README.md#r2-bucket
-			"bucket_name": "sharex-worker" /* CHANGE THIS */
+			"bucket_name": "suplauncher" /* CHANGE THIS */
 		}
 	],
 
@@ -33,14 +33,14 @@
 
 			// The CloudFlare KV ID you'd like to use
 			// https://github.com/aStonePenguin/ShareX-Worker/blob/master/README.md#kv-namespace---required
-			"id": "c9d3219d64cc45aa92a6bf6bdcd2728a" /* CHANGE THIS */
+			"id": "44ef1ef8e01a4558813977960f6d28a3" /* CHANGE THIS */
 		}
 	],
 
 	"vars": {
 		// URL to your CloudFlare R2 bucket.
 		//https://github.com/aStonePenguin/ShareX-Worker/blob/master/README.md#r2_url---required
-		"R2_URL": "https://r2.fi1.io", /* CHANGE THIS */
+		"R2_URL": "https://downloadthesuplauncher.xyz", /* CHANGE THIS */
 
 		// How to structure uploaded files in your R2 bucket
 		"R2_FOLDER_FORMAT": "YYYY/MM/DD",
